@@ -1,0 +1,37 @@
+{
+	"id": "a10a7d08-856b-75a3-d71a-358160d4144b",
+	"name": "CrudService",
+	"description": "Is for IdeaProjects\\my-project\\CrudService project",
+	"order": [
+		"d3e80906-4916-635c-b9bc-94f4cfd6e24c"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1607878936458,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "d3e80906-4916-635c-b9bc-94f4cfd6e24c",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:8080/users",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1607879024104,
+			"name": "GetAllUsers",
+			"description": "",
+			"collectionId": "a10a7d08-856b-75a3-d71a-358160d4144b",
+			"responses": []
+		}
+	]
+}
